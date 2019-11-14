@@ -1,0 +1,9 @@
+{
+  "name": "sandbox",
+  "version": "1.0.0",
+  "description": "sandbox",
+  "main": "index.js",
+  "repository": "git@github.com:ScorpionJay/sandbox.git",
+  "author": "Jay <jay.wang.scorpion@gmail.com>",
+  "license": "MIT"
+}
